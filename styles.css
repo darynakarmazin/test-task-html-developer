@@ -1,0 +1,96 @@
+.container {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 20px 90px;
+}
+
+.title {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.desription {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.article-title {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.article-sub-title {
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.5;
+  margin: 20px 0;
+}
+
+.article-part {
+  margin-top: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #000000;
+}
+
+.table tr th {
+  border: 1px solid #000000;
+  text-align: left;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.table-title {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.characteristic-list {
+  font-size: 12px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.characteristic-link {
+  font-size: 14px;
+}
+
+.advantage-img {
+  float: left;
+}
+
+.advantage-title {
+  font-weight: 400;
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+
+.advantage-list {
+  padding: 0;
+}
+
+.advantage-list li {
+  list-style: none;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.reliability-title {
+  font-size: 14px;
+  text-align: center;
+}
+
+.reliability-list {
+  font-size: 14px;
+}
+
+.reliability-list li {
+  margin-bottom: 10px;
+}
